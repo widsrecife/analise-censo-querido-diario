@@ -1,0 +1,2 @@
+# analise-censo-querido-diario
+Este repositório contém análise dos dados do projeto open source [Querido Diário](https://queridodiario.ok.org.br/), especificamente do censo dos diários oficiais municipais realizado nos municípios com mais de 100 mil habitantes. A análise desse repositório tem como objetivo solucionar a [issue #56](https://github.com/okfn-brasil/censo-querido-diario/issues/56) do censo.
